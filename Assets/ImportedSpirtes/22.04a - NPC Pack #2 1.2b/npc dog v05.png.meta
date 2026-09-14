@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 8e7bfa34603438f4fbee66d896f469bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3920505636724849632
+    second: npc dog v05_0
+  - first:
+      213: -146907509820703725
+    second: npc dog v05_1
+  - first:
+      213: 2285294355986643961
+    second: npc dog v05_2
+  - first:
+      213: -6193470885347598087
+    second: npc dog v05_3
+  - first:
+      213: 5312081302306914121
+    second: npc dog v05_4
+  - first:
+      213: -7869232964617484187
+    second: npc dog v05_5
+  - first:
+      213: 5610200505877446431
+    second: npc dog v05_6
+  - first:
+      213: -6588508437030786263
+    second: npc dog v05_7
+  - first:
+      213: -8042341778801801981
+    second: npc dog v05_8
+  - first:
+      213: -4504394801274656685
+    second: npc dog v05_9
+  - first:
+      213: 6853498067455658406
+    second: npc dog v05_10
+  - first:
+      213: -8268334783583354599
+    second: npc dog v05_11
+  - first:
+      213: 7544490185953281790
+    second: npc dog v05_12
+  - first:
+      213: -6696148439745826467
+    second: npc dog v05_13
+  - first:
+      213: -2550174084039170842
+    second: npc dog v05_14
+  - first:
+      213: 3205041979625817676
+    second: npc dog v05_15
+  - first:
+      213: 4678695652803842451
+    second: npc dog v05_16
+  - first:
+      213: -2652714200013983472
+    second: npc dog v05_17
+  - first:
+      213: -8619105318396520240
+    second: npc dog v05_18
+  - first:
+      213: 384475483912936817
+    second: npc dog v05_19
+  - first:
+      213: -3503886949161868692
+    second: npc dog v05_20
+  - first:
+      213: 1657648566748971213
+    second: npc dog v05_21
+  - first:
+      213: 4039537906307422098
+    second: npc dog v05_22
+  - first:
+      213: 7028398547242371190
+    second: npc dog v05_23
+  - first:
+      213: -7906360650975779564
+    second: npc dog v05_24
+  - first:
+      213: -2872355941737804802
+    second: npc dog v05_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc dog v05_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 227
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebb6e8da1f686630800000000000000
+      internalID: 3920505636724849632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 229
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cbc4ee56416fdf0800000000000000
+      internalID: -146907509820703725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 227
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbf9c7db1ff6bf10800000000000000
+      internalID: 2285294355986643961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 229
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e1205b0f5c0aa0800000000000000
+      internalID: -6193470885347598087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7ff1cccd48b940800000000000000
+      internalID: 5312081302306914121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5684e29cf4edac290800000000000000
+      internalID: -7869232964617484187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 197
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fba8fc2af6bdd40800000000000000
+      internalID: 5610200505877446431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 199
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bad13eb7ae094a0800000000000000
+      internalID: -6588508437030786263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 163
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3054c3823ccd36090800000000000000
+      internalID: -8042341778801801981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35868e52bcc2d71c0800000000000000
+      internalID: -4504394801274656685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 163
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a945835e248c1f50800000000000000
+      internalID: 6853498067455658406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91102846259f04d80800000000000000
+      internalID: -8268334783583354599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef68a290ad963b860800000000000000
+      internalID: 7544490185953281790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51f9a5c8708213a0800000000000000
+      internalID: -6696148439745826467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 133
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e420759e26fb9cd0800000000000000
+      internalID: -2550174084039170842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46cfcd03b89a7c20800000000000000
+      internalID: 3205041979625817676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391998d48e01ee040800000000000000
+      internalID: 4678695652803842451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 101
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01138816d7aaf2bd0800000000000000
+      internalID: -2652714200013983472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d89b4ff069c26880800000000000000
+      internalID: -8619105318396520240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d1a736a6ee55500800000000000000
+      internalID: 384475483912936817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6264165261bf5fc0800000000000000
+      internalID: -3503886949161868692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0028fb696210710800000000000000
+      internalID: 1657648566748971213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 37
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297dd2ac2525f0830800000000000000
+      internalID: 4039537906307422098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678c04c9d33e98160800000000000000
+      internalID: 7028398547242371190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415667ca0e6f64290800000000000000
+      internalID: -7906360650975779564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dog v05_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb4c384d775328d0800000000000000
+      internalID: -2872355941737804802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc dog v05_0: 3920505636724849632
+      npc dog v05_1: -146907509820703725
+      npc dog v05_10: 6853498067455658406
+      npc dog v05_11: -8268334783583354599
+      npc dog v05_12: 7544490185953281790
+      npc dog v05_13: -6696148439745826467
+      npc dog v05_14: -2550174084039170842
+      npc dog v05_15: 3205041979625817676
+      npc dog v05_16: 4678695652803842451
+      npc dog v05_17: -2652714200013983472
+      npc dog v05_18: -8619105318396520240
+      npc dog v05_19: 384475483912936817
+      npc dog v05_2: 2285294355986643961
+      npc dog v05_20: -3503886949161868692
+      npc dog v05_21: 1657648566748971213
+      npc dog v05_22: 4039537906307422098
+      npc dog v05_23: 7028398547242371190
+      npc dog v05_24: -7906360650975779564
+      npc dog v05_25: -2872355941737804802
+      npc dog v05_3: -6193470885347598087
+      npc dog v05_4: 5312081302306914121
+      npc dog v05_5: -7869232964617484187
+      npc dog v05_6: 5610200505877446431
+      npc dog v05_7: -6588508437030786263
+      npc dog v05_8: -8042341778801801981
+      npc dog v05_9: -4504394801274656685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 3e37343ebfa099848951dc2463bcb5de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5623670605794698134
+    second: npc dandy v05_0
+  - first:
+      213: 6062199406617748611
+    second: npc dandy v05_1
+  - first:
+      213: 5905887347240920842
+    second: npc dandy v05_2
+  - first:
+      213: 3211445871602435071
+    second: npc dandy v05_3
+  - first:
+      213: 8856303617839535188
+    second: npc dandy v05_4
+  - first:
+      213: 5525303266478403583
+    second: npc dandy v05_5
+  - first:
+      213: 2231450293307191703
+    second: npc dandy v05_6
+  - first:
+      213: -6607949697895717526
+    second: npc dandy v05_7
+  - first:
+      213: 4143603364107155776
+    second: npc dandy v05_8
+  - first:
+      213: -1087087231923620656
+    second: npc dandy v05_9
+  - first:
+      213: -3528440560318517671
+    second: npc dandy v05_10
+  - first:
+      213: -8383351513338209205
+    second: npc dandy v05_11
+  - first:
+      213: 5735799126906231667
+    second: npc dandy v05_12
+  - first:
+      213: 4016088611781857836
+    second: npc dandy v05_13
+  - first:
+      213: -7364750559146491484
+    second: npc dandy v05_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc dandy v05_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693e238de9a4b0e40800000000000000
+      internalID: 5623670605794698134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384e80dcd32412450800000000000000
+      internalID: 6062199406617748611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07e4c7604de5f150800000000000000
+      internalID: 5905887347240920842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 192
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff302485109519c20800000000000000
+      internalID: 3211445871602435071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454155cb739e7ea70800000000000000
+      internalID: 8856303617839535188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 191
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff20caeb02ddac40800000000000000
+      internalID: 5525303266478403583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79134821834b7fe10800000000000000
+      internalID: 2231450293307191703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65a64b92c8db44a0800000000000000
+      internalID: -6607949697895717526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04978bf4e49018930800000000000000
+      internalID: 4143603364107155776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 127
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d474551ce3e9e0f0800000000000000
+      internalID: -1087087231923620656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e622f3106780fc0800000000000000
+      internalID: -3528440560318517671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c1e3c273a58ab80800000000000000
+      internalID: -8383351513338209205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bdd369ae6a99f40800000000000000
+      internalID: 5735799126906231667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22dfb370530cb730800000000000000
+      internalID: 4016088611781857836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc dandy v05_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 127
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1c6b6f2662bc990800000000000000
+      internalID: -7364750559146491484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc dandy v05_0: 5623670605794698134
+      npc dandy v05_1: 6062199406617748611
+      npc dandy v05_10: -3528440560318517671
+      npc dandy v05_11: -8383351513338209205
+      npc dandy v05_12: 5735799126906231667
+      npc dandy v05_13: 4016088611781857836
+      npc dandy v05_14: -7364750559146491484
+      npc dandy v05_2: 5905887347240920842
+      npc dandy v05_3: 3211445871602435071
+      npc dandy v05_4: 8856303617839535188
+      npc dandy v05_5: 5525303266478403583
+      npc dandy v05_6: 2231450293307191703
+      npc dandy v05_7: -6607949697895717526
+      npc dandy v05_8: 4143603364107155776
+      npc dandy v05_9: -1087087231923620656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

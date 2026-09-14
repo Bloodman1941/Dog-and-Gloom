@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 60d1c69ee8e3a504abac86887e77bc77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2653512537632975425
+    second: npc guard v05_0
+  - first:
+      213: 36242467347607823
+    second: npc guard v05_1
+  - first:
+      213: 5185185614906158261
+    second: npc guard v05_2
+  - first:
+      213: -8943991597824113650
+    second: npc guard v05_3
+  - first:
+      213: -3170387303536520109
+    second: npc guard v05_4
+  - first:
+      213: 6460962420264886876
+    second: npc guard v05_5
+  - first:
+      213: -6447232934093488916
+    second: npc guard v05_6
+  - first:
+      213: 3138290157389519364
+    second: npc guard v05_7
+  - first:
+      213: -411853675237581809
+    second: npc guard v05_8
+  - first:
+      213: 615210140296534031
+    second: npc guard v05_9
+  - first:
+      213: -7221963700853357371
+    second: npc guard v05_10
+  - first:
+      213: -860954327433254605
+    second: npc guard v05_11
+  - first:
+      213: 7628080518783956411
+    second: npc guard v05_12
+  - first:
+      213: -4376734832454011108
+    second: npc guard v05_13
+  - first:
+      213: 7225892684898158694
+    second: npc guard v05_14
+  - first:
+      213: 1936565487037115035
+    second: npc guard v05_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc guard v05_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5575be764dc2bd0800000000000000
+      internalID: -2653512537632975425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 191
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b9000552c08000800000000000000
+      internalID: 36242467347607823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc62fe28da75f740800000000000000
+      internalID: 5185185614906158261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 191
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048d91770f80e380800000000000000
+      internalID: -8943991597824113650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3541c4c7b858004d0800000000000000
+      internalID: -3170387303536520109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52690fe613f9a950800000000000000
+      internalID: 6460962420264886876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 223
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec782b2ec3d686a0800000000000000
+      internalID: -6447232934093488916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a9e4155427d8b20800000000000000
+      internalID: 3138290157389519364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c5604b34dc84af0800000000000000
+      internalID: -411853675237581809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08d792fc5aa98800800000000000000
+      internalID: 615210140296534031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 159
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4ced5174e66cb90800000000000000
+      internalID: -7221963700853357371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3396189c9964d04f0800000000000000
+      internalID: -860954327433254605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5f13801d26cd960800000000000000
+      internalID: 7628080518783956411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ff7bdbd6b243c0800000000000000
+      internalID: -4376734832454011108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 159
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668c27ccc17874460800000000000000
+      internalID: 7225892684898158694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc guard v05_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 127
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae023dc0010ea10800000000000000
+      internalID: 1936565487037115035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc guard v05_0: -2653512537632975425
+      npc guard v05_1: 36242467347607823
+      npc guard v05_10: -7221963700853357371
+      npc guard v05_11: -860954327433254605
+      npc guard v05_12: 7628080518783956411
+      npc guard v05_13: -4376734832454011108
+      npc guard v05_14: 7225892684898158694
+      npc guard v05_15: 1936565487037115035
+      npc guard v05_2: 5185185614906158261
+      npc guard v05_3: -8943991597824113650
+      npc guard v05_4: -3170387303536520109
+      npc guard v05_5: 6460962420264886876
+      npc guard v05_6: -6447232934093488916
+      npc guard v05_7: 3138290157389519364
+      npc guard v05_8: -411853675237581809
+      npc guard v05_9: 615210140296534031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

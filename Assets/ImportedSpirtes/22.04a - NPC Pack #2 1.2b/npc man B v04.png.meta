@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: e86edab723017374997573595204ad56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5858112676827549035
+    second: npc man B v04_0
+  - first:
+      213: -6207058906988924226
+    second: npc man B v04_1
+  - first:
+      213: 3565113046694933341
+    second: npc man B v04_2
+  - first:
+      213: -3084885549935945771
+    second: npc man B v04_3
+  - first:
+      213: 7298891186977043179
+    second: npc man B v04_4
+  - first:
+      213: 3219692141709049413
+    second: npc man B v04_5
+  - first:
+      213: -1469181045734321159
+    second: npc man B v04_6
+  - first:
+      213: 2323129088845923970
+    second: npc man B v04_7
+  - first:
+      213: 7765567246727291589
+    second: npc man B v04_8
+  - first:
+      213: 5234390158909318741
+    second: npc man B v04_9
+  - first:
+      213: -667002505430368588
+    second: npc man B v04_10
+  - first:
+      213: -2304828236396230840
+    second: npc man B v04_11
+  - first:
+      213: 2912383383304566563
+    second: npc man B v04_12
+  - first:
+      213: -8289364607133189319
+    second: npc man B v04_13
+  - first:
+      213: -2905479011630329681
+    second: npc man B v04_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc man B v04_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dc48421723c4150800000000000000
+      internalID: 5858112676827549035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2300d7fc81cd9a0800000000000000
+      internalID: -6207058906988924226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53bc5c5d63d97130800000000000000
+      internalID: 3565113046694933341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7155fcfe84035d0800000000000000
+      internalID: -3084885549935945771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fef50ddeda4560800000000000000
+      internalID: 7298891186977043179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 191
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e3fa8b1f4aeac20800000000000000
+      internalID: 3219692141709049413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3d44a7f9b6c9be0800000000000000
+      internalID: -1469181045734321159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286c90c09996d3020800000000000000
+      internalID: 2323129088845923970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2a6946446d4cb60800000000000000
+      internalID: 7765567246727291589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5562795dd1a44a840800000000000000
+      internalID: 5234390158909318741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 127
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bef68751c45eb6f0800000000000000
+      internalID: -667002505430368588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84700553eea9300e0800000000000000
+      internalID: -2304828236396230840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 127
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3277e93b14dda6820800000000000000
+      internalID: 2912383383304566563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b712a0fc246fc80800000000000000
+      internalID: -8289364607133189319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc man B v04_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0db699b3aada7d0800000000000000
+      internalID: -2905479011630329681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc man B v04_0: 5858112676827549035
+      npc man B v04_1: -6207058906988924226
+      npc man B v04_10: -667002505430368588
+      npc man B v04_11: -2304828236396230840
+      npc man B v04_12: 2912383383304566563
+      npc man B v04_13: -8289364607133189319
+      npc man B v04_14: -2905479011630329681
+      npc man B v04_2: 3565113046694933341
+      npc man B v04_3: -3084885549935945771
+      npc man B v04_4: 7298891186977043179
+      npc man B v04_5: 3219692141709049413
+      npc man B v04_6: -1469181045734321159
+      npc man B v04_7: 2323129088845923970
+      npc man B v04_8: 7765567246727291589
+      npc man B v04_9: 5234390158909318741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

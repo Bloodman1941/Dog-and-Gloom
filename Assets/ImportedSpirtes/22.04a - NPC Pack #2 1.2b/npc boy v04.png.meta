@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: d66e12c06960af144aadb9f46f044a50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6683997321642107234
+    second: npc boy v04_0
+  - first:
+      213: -7292092622657677010
+    second: npc boy v04_1
+  - first:
+      213: -3944589715172008650
+    second: npc boy v04_2
+  - first:
+      213: 8284841789139474889
+    second: npc boy v04_3
+  - first:
+      213: -6161692243869363808
+    second: npc boy v04_4
+  - first:
+      213: 6153169062186994839
+    second: npc boy v04_5
+  - first:
+      213: 8430149669341297890
+    second: npc boy v04_6
+  - first:
+      213: -14624676179218044
+    second: npc boy v04_7
+  - first:
+      213: 995906687165852928
+    second: npc boy v04_8
+  - first:
+      213: -8330134807312807983
+    second: npc boy v04_9
+  - first:
+      213: 884808100564079953
+    second: npc boy v04_10
+  - first:
+      213: 7560444728491172023
+    second: npc boy v04_11
+  - first:
+      213: 5211458870745677900
+    second: npc boy v04_12
+  - first:
+      213: 4150137456957804286
+    second: npc boy v04_13
+  - first:
+      213: -8070392173646817615
+    second: npc boy v04_14
+  - first:
+      213: 352632006423305411
+    second: npc boy v04_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc boy v04_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 223
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261e324962452cc50800000000000000
+      internalID: 6683997321642107234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 223
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e291e3515684dca90800000000000000
+      internalID: -7292092622657677010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d538aad800249c0800000000000000
+      internalID: -3944589715172008650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 223
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c958f556bba9f270800000000000000
+      internalID: 8284841789139474889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a113ecdc854d7aa0800000000000000
+      internalID: -6161692243869363808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 192
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c449249a2746550800000000000000
+      internalID: 6153169062186994839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 191
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecf67c9578edf470800000000000000
+      internalID: 8430149669341297890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 191
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f16b3fea0ccff0800000000000000
+      internalID: -14624676179218044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 159
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00de4fdfadb22dd00800000000000000
+      internalID: 995906687165852928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 159
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c007178a656c80800000000000000
+      internalID: -8330134807312807983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 159
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15592809748774c00800000000000000
+      internalID: 884808100564079953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 159
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e0b17c681ce860800000000000000
+      internalID: 7560444728491172023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40ca504b32d25840800000000000000
+      internalID: 5211458870745677900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 128
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe430b5700489930800000000000000
+      internalID: 4150137456957804286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b650bba315300090800000000000000
+      internalID: -8070392173646817615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc boy v04_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc5b4701fcc4e400800000000000000
+      internalID: 352632006423305411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc boy v04_0: 6683997321642107234
+      npc boy v04_1: -7292092622657677010
+      npc boy v04_10: 884808100564079953
+      npc boy v04_11: 7560444728491172023
+      npc boy v04_12: 5211458870745677900
+      npc boy v04_13: 4150137456957804286
+      npc boy v04_14: -8070392173646817615
+      npc boy v04_15: 352632006423305411
+      npc boy v04_2: -3944589715172008650
+      npc boy v04_3: 8284841789139474889
+      npc boy v04_4: -6161692243869363808
+      npc boy v04_5: 6153169062186994839
+      npc boy v04_6: 8430149669341297890
+      npc boy v04_7: -14624676179218044
+      npc boy v04_8: 995906687165852928
+      npc boy v04_9: -8330134807312807983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

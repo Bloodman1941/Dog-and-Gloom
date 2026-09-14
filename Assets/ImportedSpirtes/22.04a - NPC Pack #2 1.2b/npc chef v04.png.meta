@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 013972f596c26464a8eafb4f8166894a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5861657308833650672
+    second: npc chef v04_0
+  - first:
+      213: -8620010499536378632
+    second: npc chef v04_1
+  - first:
+      213: 3526331562574982810
+    second: npc chef v04_2
+  - first:
+      213: -8922451181853799134
+    second: npc chef v04_3
+  - first:
+      213: -827097609319064213
+    second: npc chef v04_4
+  - first:
+      213: 2118359767765020738
+    second: npc chef v04_5
+  - first:
+      213: 8510565595376799991
+    second: npc chef v04_6
+  - first:
+      213: -1204182141169420453
+    second: npc chef v04_7
+  - first:
+      213: -1028717616838672678
+    second: npc chef v04_8
+  - first:
+      213: -4428150296958425988
+    second: npc chef v04_9
+  - first:
+      213: 2538172710080022923
+    second: npc chef v04_10
+  - first:
+      213: 3980174789500174821
+    second: npc chef v04_11
+  - first:
+      213: -5346342929082245262
+    second: npc chef v04_12
+  - first:
+      213: -8154804613820103784
+    second: npc chef v04_13
+  - first:
+      213: -2290410291071166267
+    second: npc chef v04_14
+  - first:
+      213: 8715857745958414463
+    second: npc chef v04_15
+  - first:
+      213: -4520949367238057505
+    second: npc chef v04_16
+  - first:
+      213: -7284391001579389625
+    second: npc chef v04_17
+  - first:
+      213: 4291672593931033731
+    second: npc chef v04_18
+  - first:
+      213: -7478766714970475584
+    second: npc chef v04_19
+  - first:
+      213: -5368043217053642043
+    second: npc chef v04_20
+  - first:
+      213: 9001925634995837263
+    second: npc chef v04_21
+  - first:
+      213: -2989868921143278413
+    second: npc chef v04_22
+  - first:
+      213: -2123746052589498623
+    second: npc chef v04_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc chef v04_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 223
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f71a18144ac85150800000000000000
+      internalID: 5861657308833650672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42ff61f129f5880800000000000000
+      internalID: -8620010499536378632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 193
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ea7837fdb00f030800000000000000
+      internalID: 3526331562574982810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d07db5ce51d2480800000000000000
+      internalID: -8922451181853799134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d56f14b1f8584f0800000000000000
+      internalID: -827097609319064213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 191
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240fc183cfce56d10800000000000000
+      internalID: 2118359767765020738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 160
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0581e615a9b1670800000000000000
+      internalID: 8510565595376799991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 191
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b573abef8b2e94fe0800000000000000
+      internalID: -1204182141169420453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 160
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adef42227c249b1f0800000000000000
+      internalID: -1028717616838672678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74a0c924cc0c82c0800000000000000
+      internalID: -4428150296958425988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 191
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8909eac1a6693320800000000000000
+      internalID: 2538172710080022923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 160
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e18f1812eb6c3730800000000000000
+      internalID: 3980174789500174821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f91a0ae69fdc5b0800000000000000
+      internalID: -5346342929082245262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 129
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8934984e86054de80800000000000000
+      internalID: -8154804613820103784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ddc2b9f3d630e0800000000000000
+      internalID: -2290410291071166267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 127
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7820bcf072f4f870800000000000000
+      internalID: 8715857745958414463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1af36e08c5241c0800000000000000
+      internalID: -4520949367238057505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dfec97af4a8ea90800000000000000
+      internalID: -7284391001579389625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cd9856c751f8b30800000000000000
+      internalID: 4291672593931033731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c37b240c45163890800000000000000
+      internalID: -7478766714970475584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2929c9221e085b0800000000000000
+      internalID: -5368043217053642043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d868bba34dec70800000000000000
+      internalID: 9001925634995837263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b44646ae0ad186d0800000000000000
+      internalID: -2989868921143278413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc chef v04_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc34e9730f682e0800000000000000
+      internalID: -2123746052589498623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc chef v04_0: 5861657308833650672
+      npc chef v04_1: -8620010499536378632
+      npc chef v04_10: 2538172710080022923
+      npc chef v04_11: 3980174789500174821
+      npc chef v04_12: -5346342929082245262
+      npc chef v04_13: -8154804613820103784
+      npc chef v04_14: -2290410291071166267
+      npc chef v04_15: 8715857745958414463
+      npc chef v04_16: -4520949367238057505
+      npc chef v04_17: -7284391001579389625
+      npc chef v04_18: 4291672593931033731
+      npc chef v04_19: -7478766714970475584
+      npc chef v04_2: 3526331562574982810
+      npc chef v04_20: -5368043217053642043
+      npc chef v04_21: 9001925634995837263
+      npc chef v04_22: -2989868921143278413
+      npc chef v04_23: -2123746052589498623
+      npc chef v04_3: -8922451181853799134
+      npc chef v04_4: -827097609319064213
+      npc chef v04_5: 2118359767765020738
+      npc chef v04_6: 8510565595376799991
+      npc chef v04_7: -1204182141169420453
+      npc chef v04_8: -1028717616838672678
+      npc chef v04_9: -4428150296958425988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

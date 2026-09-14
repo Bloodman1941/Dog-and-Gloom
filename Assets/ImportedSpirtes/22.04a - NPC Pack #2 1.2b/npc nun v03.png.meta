@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d9a0708f0c4c2a344b539b5519e6fb87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6758194541277099634
+    second: npc nun v03_0
+  - first:
+      213: 3305869916897335249
+    second: npc nun v03_1
+  - first:
+      213: 8067259836557964713
+    second: npc nun v03_2
+  - first:
+      213: 1485042585787149501
+    second: npc nun v03_3
+  - first:
+      213: -3858723232964932920
+    second: npc nun v03_4
+  - first:
+      213: 8871214764174512302
+    second: npc nun v03_5
+  - first:
+      213: -6031144493058549587
+    second: npc nun v03_6
+  - first:
+      213: 318399764309575169
+    second: npc nun v03_7
+  - first:
+      213: -1882858016701485455
+    second: npc nun v03_8
+  - first:
+      213: 2052806496170066182
+    second: npc nun v03_9
+  - first:
+      213: -7128372442878873864
+    second: npc nun v03_10
+  - first:
+      213: -6091794791969804891
+    second: npc nun v03_11
+  - first:
+      213: -2799324256332935127
+    second: npc nun v03_12
+  - first:
+      213: 113869504971855855
+    second: npc nun v03_13
+  - first:
+      213: -1941577336528745826
+    second: npc nun v03_14
+  - first:
+      213: -2547471312618609154
+    second: npc nun v03_15
+  - first:
+      213: -528238769877999041
+    second: npc nun v03_16
+  - first:
+      213: 4782160421233250601
+    second: npc nun v03_17
+  - first:
+      213: 247775640721478122
+    second: npc nun v03_18
+  - first:
+      213: 2157219985368254658
+    second: npc nun v03_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc nun v03_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 224
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2763ecbf02ee9cd50800000000000000
+      internalID: 6758194541277099634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7d0569c2fc0ed20800000000000000
+      internalID: 3305869916897335249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 224
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a530d4441aa4ff60800000000000000
+      internalID: 8067259836557964713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcab2a1d5eeb9410800000000000000
+      internalID: 1485042585787149501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca049cf9af037ac0800000000000000
+      internalID: -3858723232964932920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea092d883d2ec1b70800000000000000
+      internalID: 8871214764174512302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da81136b9021d4ca0800000000000000
+      internalID: -6031144493058549587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1068d3016ee2b6400800000000000000
+      internalID: 318399764309575169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ee2001c9ebed5e0800000000000000
+      internalID: -1882858016701485455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601c4dcc1a80d7c10800000000000000
+      internalID: 2052806496170066182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 160
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe658be70fe21d90800000000000000
+      internalID: -7128372442878873864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 161
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada01499e8957ba0800000000000000
+      internalID: -6091794791969804891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920142a9b6dc629d0800000000000000
+      internalID: -2799324256332935127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 128
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d89226bb849100800000000000000
+      internalID: 113869504971855855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a414803b12e05e0800000000000000
+      internalID: -1941577336528745826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 128
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5aed7965095acd0800000000000000
+      internalID: -2547471312618609154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 64
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3225d433a15ba8f0800000000000000
+      internalID: -528238769877999041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 64
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215a8ee095ad5240800000000000000
+      internalID: 4782160421233250601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1d239e1a6407300800000000000000
+      internalID: 247775640721478122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc nun v03_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c88f32b52cffed10800000000000000
+      internalID: 2157219985368254658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc nun v03_0: 6758194541277099634
+      npc nun v03_1: 3305869916897335249
+      npc nun v03_10: -7128372442878873864
+      npc nun v03_11: -6091794791969804891
+      npc nun v03_12: -2799324256332935127
+      npc nun v03_13: 113869504971855855
+      npc nun v03_14: -1941577336528745826
+      npc nun v03_15: -2547471312618609154
+      npc nun v03_16: -528238769877999041
+      npc nun v03_17: 4782160421233250601
+      npc nun v03_18: 247775640721478122
+      npc nun v03_19: 2157219985368254658
+      npc nun v03_2: 8067259836557964713
+      npc nun v03_3: 1485042585787149501
+      npc nun v03_4: -3858723232964932920
+      npc nun v03_5: 8871214764174512302
+      npc nun v03_6: -6031144493058549587
+      npc nun v03_7: 318399764309575169
+      npc nun v03_8: -1882858016701485455
+      npc nun v03_9: 2052806496170066182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

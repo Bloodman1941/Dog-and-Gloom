@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: d140f4670a3c6214e81970ae34ec9861
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2749453238403527669
+    second: npc cat v04_0
+  - first:
+      213: -3264789731111907575
+    second: npc cat v04_1
+  - first:
+      213: -5690548407055282842
+    second: npc cat v04_2
+  - first:
+      213: 5954670041143215075
+    second: npc cat v04_3
+  - first:
+      213: -2971767010544638311
+    second: npc cat v04_4
+  - first:
+      213: -8732792637089684539
+    second: npc cat v04_5
+  - first:
+      213: -2788920334815202542
+    second: npc cat v04_6
+  - first:
+      213: -3897423474927722829
+    second: npc cat v04_7
+  - first:
+      213: -8565072693803240216
+    second: npc cat v04_8
+  - first:
+      213: -6082521904619661683
+    second: npc cat v04_9
+  - first:
+      213: -4644527429400811841
+    second: npc cat v04_10
+  - first:
+      213: 858984170640507060
+    second: npc cat v04_11
+  - first:
+      213: 6169570274691259012
+    second: npc cat v04_12
+  - first:
+      213: -7617634884197791290
+    second: npc cat v04_13
+  - first:
+      213: 1854034411728781112
+    second: npc cat v04_14
+  - first:
+      213: 1392263143469891205
+    second: npc cat v04_15
+  - first:
+      213: 3923299906695865028
+    second: npc cat v04_16
+  - first:
+      213: 8490820958236483289
+    second: npc cat v04_17
+  - first:
+      213: 518681939394319521
+    second: npc cat v04_18
+  - first:
+      213: -6976470906454142200
+    second: npc cat v04_19
+  - first:
+      213: -2965968420371644451
+    second: npc cat v04_20
+  - first:
+      213: 3039119276418449554
+    second: npc cat v04_21
+  - first:
+      213: 4072124321567521412
+    second: npc cat v04_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc cat v04_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 227
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f6913725082620800000000000000
+      internalID: 2749453238403527669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f4bb2890321b2d0800000000000000
+      internalID: -3264789731111907575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 227
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d0e44af5c1701b0800000000000000
+      internalID: -5690548407055282842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 229
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3800d6adc33a250800000000000000
+      internalID: 5954670041143215075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996234526a922c6d0800000000000000
+      internalID: -2971767010544638311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 199
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c36f196d53eec680800000000000000
+      internalID: -8732792637089684539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 197
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213f9785bb3cb49d0800000000000000
+      internalID: -2788920334815202542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 199
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be1aadbff199e9c0800000000000000
+      internalID: -3897423474927722829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 163
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4b572c3cfb22980800000000000000
+      internalID: -8565072693803240216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 165
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86dc98ed8a869ba0800000000000000
+      internalID: -6082521904619661683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 163
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6a10529e25b8fb0800000000000000
+      internalID: -4644527429400811841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 165
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b006b65d89bbeb00800000000000000
+      internalID: 858984170640507060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a18cf1a77be9550800000000000000
+      internalID: 6169570274691259012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c944cace69b84690800000000000000
+      internalID: -7617634884197791290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 133
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fb170797adab910800000000000000
+      internalID: 1854034411728781112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e3464d3ff425310800000000000000
+      internalID: 1392263143469891205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 69
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c22ee58a7c527630800000000000000
+      internalID: 3923299906695865028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 69
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de902bdca475d570800000000000000
+      internalID: 8490820958236483289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4520dc97ab23700800000000000000
+      internalID: 518681939394319521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80314fa6ca89e2f90800000000000000
+      internalID: -6976470906454142200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb8b0af63c6d6d0800000000000000
+      internalID: -2965968420371644451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c6f441ee1d2a20800000000000000
+      internalID: 3039119276418449554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc cat v04_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab244de77138830800000000000000
+      internalID: 4072124321567521412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc cat v04_0: 2749453238403527669
+      npc cat v04_1: -3264789731111907575
+      npc cat v04_10: -4644527429400811841
+      npc cat v04_11: 858984170640507060
+      npc cat v04_12: 6169570274691259012
+      npc cat v04_13: -7617634884197791290
+      npc cat v04_14: 1854034411728781112
+      npc cat v04_15: 1392263143469891205
+      npc cat v04_16: 3923299906695865028
+      npc cat v04_17: 8490820958236483289
+      npc cat v04_18: 518681939394319521
+      npc cat v04_19: -6976470906454142200
+      npc cat v04_2: -5690548407055282842
+      npc cat v04_20: -2965968420371644451
+      npc cat v04_21: 3039119276418449554
+      npc cat v04_22: 4072124321567521412
+      npc cat v04_3: 5954670041143215075
+      npc cat v04_4: -2971767010544638311
+      npc cat v04_5: -8732792637089684539
+      npc cat v04_6: -2788920334815202542
+      npc cat v04_7: -3897423474927722829
+      npc cat v04_8: -8565072693803240216
+      npc cat v04_9: -6082521904619661683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
