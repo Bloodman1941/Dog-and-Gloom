@@ -44,11 +44,23 @@ TagManager:
   - name: Background
     uniqueID: 3795966173
     locked: 0
+  - name: Floor
+    uniqueID: 3401430657
+    locked: 0
   - name: Player
     uniqueID: 3086183141
     locked: 0
   - name: Companion
     uniqueID: 235496339
+    locked: 0
+  - name: Wall
+    uniqueID: 61021191
+    locked: 0
+  - name: Wall2
+    uniqueID: 3318011503
+    locked: 0
+  - name: Light
+    uniqueID: 3568310631
     locked: 0
   m_RenderingLayers:
   - Default
