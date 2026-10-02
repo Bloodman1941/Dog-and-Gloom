@@ -44,8 +44,14 @@ TagManager:
   - name: Background
     uniqueID: 3795966173
     locked: 0
+  - name: WeaponSFX
+    uniqueID: 1351997077
+    locked: 0
   - name: Player
     uniqueID: 3086183141
+    locked: 0
+  - name: Weapon
+    uniqueID: 2805052163
     locked: 0
   - name: Companion
     uniqueID: 235496339
