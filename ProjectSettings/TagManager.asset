@@ -44,6 +44,8 @@ TagManager:
   - name: Background
     uniqueID: 3795966173
     locked: 0
+  - name: Floor
+    uniqueID: 3401430657
   - name: WeaponSFX
     uniqueID: 1351997077
     locked: 0
@@ -55,6 +57,12 @@ TagManager:
     locked: 0
   - name: Companion
     uniqueID: 235496339
+    locked: 0
+  - name: Wall
+    uniqueID: 61021191
+    locked: 0
+  - name: Light
+    uniqueID: 3318011503
     locked: 0
   m_RenderingLayers:
   - Default
