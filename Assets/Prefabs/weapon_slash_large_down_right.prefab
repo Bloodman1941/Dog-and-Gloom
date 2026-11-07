@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 245131766317616794}
   - component: {fileID: 9177405254629485295}
   - component: {fileID: 3836150340509766667}
+  - component: {fileID: -8963336634215564014}
   m_Layer: 0
   m_Name: weapon_slash_large_down_right
   m_TagString: Untagged
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 1351997077
-  m_SortingLayer: 4
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -9141870186641938504, guid: af11322cf5b805541be73f54a92c0925, type: 3}
@@ -115,3 +116,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-8963336634215564014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4270909807707248744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94152e63f46ca51418b452d44424a10f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SwordFX_Controller

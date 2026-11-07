@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3536487468989766406}
   - component: {fileID: 6765910358566005629}
   - component: {fileID: 2375267438381552469}
+  - component: {fileID: 7772157031323504303}
   m_Layer: 0
   m_Name: WeaponSmallTopLeft
   m_TagString: Untagged
@@ -28,7 +29,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.234, y: 0.039, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1489915133
-  m_SortingLayer: 3
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 6984867453449447067, guid: af11322cf5b805541be73f54a92c0925, type: 3}
@@ -115,3 +116,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7772157031323504303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3295418783001669911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94152e63f46ca51418b452d44424a10f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SwordFX_Controller
