@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: 8a3a9b9f19aa1d4459db5d0bfb425461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6999386261616644278
+    second: monster battler set_0
+  - first:
+      213: 8897691051179850964
+    second: monster battler set_1
+  - first:
+      213: 4811217516947384994
+    second: monster battler set_2
+  - first:
+      213: 3978552514376051699
+    second: monster battler set_3
+  - first:
+      213: 2930892979673774939
+    second: monster battler set_4
+  - first:
+      213: 5768065775216530296
+    second: monster battler set_5
+  - first:
+      213: 7984595532677773203
+    second: monster battler set_6
+  - first:
+      213: -7070224081430869368
+    second: monster battler set_7
+  - first:
+      213: 1065634076171463888
+    second: monster battler set_8
+  - first:
+      213: -581322562856247835
+    second: monster battler set_9
+  - first:
+      213: -2806597543155579914
+    second: monster battler set_10
+  - first:
+      213: -2137525093627513097
+    second: monster battler set_11
+  - first:
+      213: 8291744215932251344
+    second: monster battler set_12
+  - first:
+      213: 5146556795492985563
+    second: monster battler set_13
+  - first:
+      213: 460774266840819568
+    second: monster battler set_14
+  - first:
+      213: -6402970402507195992
+    second: monster battler set_15
+  - first:
+      213: 3649995409635575406
+    second: monster battler set_16
+  - first:
+      213: 4614911940879554351
+    second: monster battler set_17
+  - first:
+      213: 7184577330794910831
+    second: monster battler set_18
+  - first:
+      213: 1745264674718878489
+    second: monster battler set_19
+  - first:
+      213: 6295371666081133976
+    second: monster battler set_20
+  - first:
+      213: 716570150319336786
+    second: monster battler set_21
+  - first:
+      213: -309947634152753699
+    second: monster battler set_22
+  - first:
+      213: -1606033584919513655
+    second: monster battler set_23
+  - first:
+      213: -1017537244547223212
+    second: monster battler set_24
+  - first:
+      213: 8883984900915153216
+    second: monster battler set_25
+  - first:
+      213: 6483468884555816428
+    second: monster battler set_26
+  - first:
+      213: -3397626692112593233
+    second: monster battler set_27
+  - first:
+      213: -5861144552899772902
+    second: monster battler set_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster battler set_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0d86978b0d22160800000000000000
+      internalID: 6999386261616644278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc3fba7ed2fa7b70800000000000000
+      internalID: 8897691051179850964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 144
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa29ca37d0e4c240800000000000000
+      internalID: 4811217516947384994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb2f9bbe68a63730800000000000000
+      internalID: 3978552514376051699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 151
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b3420f2af9ca820800000000000000
+      internalID: 2930892979673774939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 145
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739ed413494c0050800000000000000
+      internalID: 5768065775216530296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 152
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397fd60355bfece60800000000000000
+      internalID: 7984595532677773203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 151
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a86e758a481ed90800000000000000
+      internalID: -7070224081430869368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 140
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc60cadb84e9ce00800000000000000
+      internalID: 1065634076171463888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 140
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed9805853abee7f0800000000000000
+      internalID: -581322562856247835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 140
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f34abc8766fc09d0800000000000000
+      internalID: -2806597543155579914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f639df904cf552e0800000000000000
+      internalID: -2137525093627513097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcaa0fce61321370800000000000000
+      internalID: 8291744215932251344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6bbb432e3c6740800000000000000
+      internalID: 5146556795492985563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07720b021cff46600800000000000000
+      internalID: 460774266840819568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 86
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9f733e7541427a0800000000000000
+      internalID: -6402970402507195992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 76
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66822f8c7367a230800000000000000
+      internalID: 3649995409635575406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 79
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2795d995f57b0040800000000000000
+      internalID: 4614911940879554351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 82
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64da5f440fb4b360800000000000000
+      internalID: 7184577330794910831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 83
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b08af89fc683810800000000000000
+      internalID: 1745264674718878489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 74
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89533dd0d27ad5750800000000000000
+      internalID: 6295371666081133976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dae6251c4c1f900800000000000000
+      internalID: 716570150319336786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 9
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53a57d448d2bbf0800000000000000
+      internalID: -309947634152753699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c57681b6f836b9e0800000000000000
+      internalID: -1606033584919513655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4517809644bf0e1f0800000000000000
+      internalID: -1017537244547223212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 19
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0494bf0b2314a4b70800000000000000
+      internalID: 8883984900915153216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 16
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced5f308998e9f950800000000000000
+      internalID: 6483468884555816428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 16
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae4e31668439d0d0800000000000000
+      internalID: -3397626692112593233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster battler set_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 17
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e7133351809aea0800000000000000
+      internalID: -5861144552899772902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monster battler set_0: 6999386261616644278
+      monster battler set_1: 8897691051179850964
+      monster battler set_10: -2806597543155579914
+      monster battler set_11: -2137525093627513097
+      monster battler set_12: 8291744215932251344
+      monster battler set_13: 5146556795492985563
+      monster battler set_14: 460774266840819568
+      monster battler set_15: -6402970402507195992
+      monster battler set_16: 3649995409635575406
+      monster battler set_17: 4614911940879554351
+      monster battler set_18: 7184577330794910831
+      monster battler set_19: 1745264674718878489
+      monster battler set_2: 4811217516947384994
+      monster battler set_20: 6295371666081133976
+      monster battler set_21: 716570150319336786
+      monster battler set_22: -309947634152753699
+      monster battler set_23: -1606033584919513655
+      monster battler set_24: -1017537244547223212
+      monster battler set_25: 8883984900915153216
+      monster battler set_26: 6483468884555816428
+      monster battler set_27: -3397626692112593233
+      monster battler set_28: -5861144552899772902
+      monster battler set_3: 3978552514376051699
+      monster battler set_4: 2930892979673774939
+      monster battler set_5: 5768065775216530296
+      monster battler set_6: 7984595532677773203
+      monster battler set_7: -7070224081430869368
+      monster battler set_8: 1065634076171463888
+      monster battler set_9: -581322562856247835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
