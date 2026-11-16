@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 0ff220a0bfbb47b42af9c5e052ed6189
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -168421969075237668
+    second: pixil-frame-0 (2)_0
+  - first:
+      213: -249628310123516169
+    second: pixil-frame-0 (2)_1
+  - first:
+      213: 6950916264672091854
+    second: pixil-frame-0 (2)_2
+  - first:
+      213: 87419031593189281
+    second: pixil-frame-0 (2)_3
+  - first:
+      213: 7080715997881667233
+    second: pixil-frame-0 (2)_4
+  - first:
+      213: -4512349985842528654
+    second: pixil-frame-0 (2)_5
+  - first:
+      213: 1301278337192169457
+    second: pixil-frame-0 (2)_6
+  - first:
+      213: -3625319683996010164
+    second: pixil-frame-0 (2)_7
+  - first:
+      213: 887692905118280314
+    second: pixil-frame-0 (2)_8
+  - first:
+      213: 2049773315141763561
+    second: pixil-frame-0 (2)_9
+  - first:
+      213: -2855075988674079279
+    second: pixil-frame-0 (2)_10
+  - first:
+      213: 1489986872292285190
+    second: pixil-frame-0 (2)_11
+  - first:
+      213: 7007635875381428144
+    second: pixil-frame-0 (2)_12
+  - first:
+      213: 8365022823849414564
+    second: pixil-frame-0 (2)_13
+  - first:
+      213: 6832141027590889246
+    second: pixil-frame-0 (2)_14
+  - first:
+      213: 5985459341126710563
+    second: pixil-frame-0 (2)_15
+  - first:
+      213: -5450460875413027825
+    second: pixil-frame-0 (2)_16
+  - first:
+      213: 4179290016073672074
+    second: pixil-frame-0 (2)_17
+  - first:
+      213: 6269338802061579370
+    second: pixil-frame-0 (2)_18
+  - first:
+      213: -7018743443626921852
+    second: pixil-frame-0 (2)_19
+  - first:
+      213: 5601850466406264564
+    second: pixil-frame-0 (2)_20
+  - first:
+      213: -3563858850349417003
+    second: pixil-frame-0 (2)_21
+  - first:
+      213: 2783666262339711317
+    second: pixil-frame-0 (2)_22
+  - first:
+      213: 1096406293313716010
+    second: pixil-frame-0 (2)_23
+  - first:
+      213: -1673960627785089650
+    second: pixil-frame-0 (2)_24
+  - first:
+      213: 2053128510485799545
+    second: pixil-frame-0 (2)_25
+  - first:
+      213: -1261301540819764543
+    second: pixil-frame-0 (2)_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DogAssetUpscale_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4704
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882582d9ce93d4249b13ce93eca790e3
+      internalID: -542678425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_1
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4704
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbae626950dfb5a4986eef598e4e488e
+      internalID: 1803775012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4704
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e803cddf3f2328447a027cf029ba379f
+      internalID: -1214927236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_3
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4704
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450535a0b26413149aca9247f8f8cdf4
+      internalID: -641430131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cac4fa62439d94487d85dc2871dbae
+      internalID: 234950486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4032
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef2f1909466ca45b43ed3c7ebd3e7f
+      internalID: 812139933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4032
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf660944c0fb69348807e422f19175f2
+      internalID: -1220457332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4032
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d700356e3d7f44a9b356d085577d1d
+      internalID: 2048322589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837932b34e40fd4480b0ca56ed6f619
+      internalID: 139690185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3360
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22cc6523d42d1949b8f78258a8320a6
+      internalID: 674138055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3360
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3cefb1bc999ce43ba84a10e6dee18f
+      internalID: 1953589456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_11
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3360
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e766c365f27a08c46b01a1e6f5194e53
+      internalID: -711520392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf25b219196b64fb1814adafb46fa0
+      internalID: -2116354306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2688
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf5d2b74b3c00a4e8a9e8fabdefb1f2
+      internalID: -56007874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2688
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b9bb80848c9248aa7e9cfb1a0d1d1
+      internalID: -1411401101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_15
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2688
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ec8ba0e387a4428bc10db190c9ec6
+      internalID: 463639984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b14d244b41dc4194203bdf6429308
+      internalID: 1232963655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2016
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae0d4b86427e6549864f64d00e4c01e
+      internalID: -580672755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27dcc930ceb7b44a4c7f292fe19b0c
+      internalID: 852780022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1344
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daebcb0b26353e4e911f75d4a0352c1
+      internalID: -1379804983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a440a1e15edea2042a0d5ad00e7a72fc
+      internalID: -37042075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b262e5367020859478950a2a37ed5e0b
+      internalID: -490644432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 672
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077c94734dd3894aacf68b7e0a486b4
+      internalID: -1269918105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a68ff3e47aa69549bea7b502cabf818
+      internalID: -725836371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea6b78870ce494390d0d2cbbabf812
+      internalID: -767372862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DogAssetUpscale_25
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafa528a75e644849a0d7daef333d72d
+      internalID: -789403343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2cac152a948e99b4c95e18e66fc30069
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":8.0},"gridSpriteSize":{"x":672.0,"y":672.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DogAssetUpscale_0: -542678425
+      DogAssetUpscale_1: 1803775012
+      DogAssetUpscale_10: 1953589456
+      DogAssetUpscale_11: -711520392
+      DogAssetUpscale_12: -2116354306
+      DogAssetUpscale_13: -56007874
+      DogAssetUpscale_14: -1411401101
+      DogAssetUpscale_15: 463639984
+      DogAssetUpscale_16: 1232963655
+      DogAssetUpscale_17: -580672755
+      DogAssetUpscale_18: 852780022
+      DogAssetUpscale_19: -1379804983
+      DogAssetUpscale_2: -1214927236
+      DogAssetUpscale_20: -37042075
+      DogAssetUpscale_21: -490644432
+      DogAssetUpscale_22: -1269918105
+      DogAssetUpscale_23: -725836371
+      DogAssetUpscale_24: -767372862
+      DogAssetUpscale_25: -789403343
+      DogAssetUpscale_3: -641430131
+      DogAssetUpscale_4: 234950486
+      DogAssetUpscale_5: 812139933
+      DogAssetUpscale_6: -1220457332
+      DogAssetUpscale_7: 2048322589
+      DogAssetUpscale_8: 139690185
+      DogAssetUpscale_9: 674138055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
