@@ -11,7 +11,7 @@ public class TilemapVisualizer : MonoBehaviour
     [SerializeField]
     private TileBase floorTile, wallTop, wallSideRight, wallSiderLeft, wallBottom, wallFull, 
         wallInnerCornerDownLeft, wallInnerCornerDownRight, 
-        wallDiagonalCornerDownRight, wallDiagonalCornerDownLeft, wallDiagonalCornerUpRight, wallDiagonalCornerUpLeft;
+        wallDiagonalCornerDownRight, wallDiagonalCornerDownLeft, wallDiagonalCornerUpRight, wallDiagonalCornerUpLeft, exitTile;
 
     public void PaintFloorTiles(IEnumerable<Vector2Int> floorPositions)
     {
@@ -106,5 +106,13 @@ public class TilemapVisualizer : MonoBehaviour
 
         if (tile != null)
             PaintSingleTile(wallTilemap, tile, position);
+    }
+
+    public void PaintExitTile(Vector2Int position)
+    {
+        if (exitTile != null)
+        {
+            PaintSingleTile(floorTilemap, exitTile, position);
+        }
     }
 }

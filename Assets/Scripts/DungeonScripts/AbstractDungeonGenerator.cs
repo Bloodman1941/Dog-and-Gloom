@@ -10,8 +10,19 @@ public abstract class AbstractDungeonGenerator : MonoBehaviour
     [SerializeField]
     protected Vector2Int startPosition = Vector2Int.zero;
 
+    protected virtual void Start()
+    {
+        GenerateDungeon();
+    }
+
     public void GenerateDungeon()
     {
+        if (tilemapVisualizer == null)
+        {
+            Debug.LogError("TilemapVisualizer is not assigned in the inspector.");
+            return;
+        }
+
         tilemapVisualizer.Clear();
         RunProceduralGeneration();
     }
