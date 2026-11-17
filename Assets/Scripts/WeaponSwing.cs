@@ -68,6 +68,22 @@ public class WeaponSwing : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        // Completely disable physics simulation on the sword so it never pushes objects
+        if (rb != null)
+        {
+            rb.simulated = false;
+        }
+
+        if (mainCamera == null)
+        {
+            mainCamera = Camera.main;
+        }
+
+        if (playerTransform == null && transform.parent != null)
+        {
+            playerTransform = transform.parent;
+        }
     }
 
     // Update is called once per frame

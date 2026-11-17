@@ -1,20 +1,28 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
+using Unity.VisualScripting.FullSerializer;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
 public class RoomFirstDungeonGenerator : SimpleRandomWalkDungeonGenerator
 {
     [SerializeField]
-    private int minRoomWidth = 4, minRoomHeight = 4;
+    private int minRoomWidth = 6, minRoomHeight = 6;
     [SerializeField]
-    private int dungeonWidth = 20, dungeonHeight = 20;
+    private int dungeonWidth = 60, dungeonHeight = 60;
     [SerializeField]
-    [Range(0,10)]
+    [Range(0, 10)]
     private int offset = 1;
     [SerializeField]
     private bool randomWalkRooms = false;
+
+    [Header("Player & Exit Spawning")]
+    [SerializeField]
+    private GameObject playerPrefab;
+    private GameObject currentPlayer;
+    private GameObject currentExitTrigger;
 
     protected override void RunProceduralGeneration()
     {
@@ -35,19 +43,142 @@ public class RoomFirstDungeonGenerator : SimpleRandomWalkDungeonGenerator
         {
             floor = CreateSimpleRooms(roomsList);
         }
-        
+
+        // Clean up the dungeon by removing isolated floor tiles
+        floor = CleanUpDungeon(floor);
 
         List<Vector2Int> roomCenters = new List<Vector2Int>();
         foreach (var room in roomsList)
         {
-            roomCenters.Add((Vector2Int)Vector3Int.RoundToInt(room.center));
+            int cx = room.min.x + room.size.x / 2;
+            int cy = room.min.y + room.size.y / 2;
+            roomCenters.Add(new Vector2Int(cx, cy));
         }
 
         HashSet<Vector2Int> corridors = ConnectRooms(roomCenters);
         floor.UnionWith(corridors);
 
+        // Clean up the dungeon again after adding corridors
+        floor = CleanUpDungeon(floor);
+
+        tilemapVisualizer.Clear();
         tilemapVisualizer.PaintFloorTiles(floor);
         WallGenerator.CreateWalls(floor, tilemapVisualizer);
+
+        SpawnPlayerAndExit(roomsList, floor);
+    }
+
+    private HashSet<Vector2Int> CleanUpDungeon(HashSet<Vector2Int> floorPositions)
+    {
+        HashSet<Vector2Int> cleanedFloor = new HashSet<Vector2Int>();
+        foreach (var pos in floorPositions)
+        {
+            int neighborCount = 0;
+            foreach (var dir in Direction2D.cardinalDirectionsList)
+            {
+                if (floorPositions.Contains(pos + dir))
+                {
+                    neighborCount++;
+                }
+            }
+            if (neighborCount > 0)
+            {
+                cleanedFloor.Add(pos);
+            }
+        }
+        return cleanedFloor;
+    }
+
+    private void SpawnPlayerAndExit(List<BoundsInt> roomsList, HashSet<Vector2Int> floorPositions)
+    {
+        if (roomsList == null || roomsList.Count < 2) return;
+
+        GameObject[] oldPlayers = GameObject.FindGameObjectsWithTag("Player");
+        foreach (var oldPlayer in oldPlayers)
+        {
+            Destroy(oldPlayer);
+        }
+        if (currentPlayer != null)
+        {
+            Destroy(currentPlayer);
+        }
+        if (currentExitTrigger != null)
+        {
+            Destroy(currentExitTrigger);
+        }
+
+        int playerRoomIndex = Random.Range(0, roomsList.Count);
+        BoundsInt playerRoom = roomsList[playerRoomIndex];
+        Vector2Int playerSpawnPos = GetValidFloorInRoom(playerRoom, floorPositions);
+
+        int exitRoomIndex;
+        do
+        {
+            exitRoomIndex = Random.Range(0, roomsList.Count);
+
+        } while (exitRoomIndex == playerRoomIndex);
+
+        BoundsInt exitRoom = roomsList[exitRoomIndex];
+        Vector2Int exitSpawnPos = GetValidFloorInRoom(exitRoom, floorPositions);
+
+        if (playerPrefab != null)
+        {
+            currentPlayer = Instantiate(playerPrefab, new Vector3(playerSpawnPos.x, playerSpawnPos.y, 0), Quaternion.identity);
+            currentPlayer.tag = "Player";
+
+            // Directly assign camera target immediately upon spawn
+            CameraFollowPlayer camFollow = Camera.main.GetComponent<CameraFollowPlayer>();
+            if (camFollow != null)
+            {
+                camFollow.player = currentPlayer.transform;
+            }
+            else
+            {
+                Camera.main.gameObject.AddComponent<CameraFollowPlayer>().player = currentPlayer.transform;
+            }
+        }
+        else
+        {
+            Debug.LogWarning("Player prefab is not assigned.");
+        }
+
+        tilemapVisualizer.PaintExitTile(exitSpawnPos);
+
+        currentExitTrigger = new GameObject("DungeonExitTrigger");
+        currentExitTrigger.transform.position = new Vector3(exitSpawnPos.x, exitSpawnPos.y, 0);
+        BoxCollider2D boxCol = currentExitTrigger.AddComponent<BoxCollider2D>();
+        boxCol.isTrigger = true;
+
+        DungeonExit exitScript = currentExitTrigger.AddComponent<DungeonExit>();
+        exitScript.Initialized(this);
+    }
+
+    private Vector2Int GetValidFloorInRoom(BoundsInt roomBounds, HashSet<Vector2Int> floorPositions)
+    {
+        // Calculate center safely using min and size
+        int centerX = roomBounds.min.x + roomBounds.size.x / 2;
+        int centerY = roomBounds.min.y + roomBounds.size.y / 2;
+        Vector2Int center = new Vector2Int(centerX, centerY);
+
+        if (floorPositions.Contains(center))
+        {
+            return center;
+        }
+
+        // Fallback: search for any valid floor tile inside the room
+        for (int col = offset; col < roomBounds.size.x - offset; col++)
+        {
+            for (int row = offset; row < roomBounds.size.y - offset; row++)
+            {
+                Vector2Int pos = (Vector2Int)roomBounds.min + new Vector2Int(col, row);
+                if (floorPositions.Contains(pos))
+                {
+                    return pos;
+                }
+            }
+        }
+
+        return center;
     }
 
     private HashSet<Vector2Int> CreateRoomsRandomly(List<BoundsInt> roomsList)
@@ -56,11 +187,19 @@ public class RoomFirstDungeonGenerator : SimpleRandomWalkDungeonGenerator
         for (int i = 0; i < roomsList.Count; i++)
         {
             var roomBounds = roomsList[i];
-            var roomCenter = new Vector2Int(Mathf.RoundToInt(roomBounds.center.x), Mathf.RoundToInt(roomBounds.center.y));
+            int centerX = roomBounds.min.x + roomBounds.size.x / 2;
+            int centerY = roomBounds.min.y + roomBounds.size.y / 2;
+            var roomCenter = new Vector2Int(centerX, centerY);
+
             var roomFloor = RunRandomWalk(randomWalkParameters, roomCenter);
             foreach (var position in roomFloor)
             {
-                if(position.x >= (roomBounds.xMin + offset) && position.x <= (roomBounds.xMax - offset) && position.y >= (roomBounds.yMin - offset) && position.y <= (roomBounds.yMax - offset))
+                int xMin = roomBounds.min.x + offset;
+                int xMax = roomBounds.min.x + roomBounds.size.x - offset;
+                int yMin = roomBounds.min.y + offset;
+                int yMax = roomBounds.min.y + roomBounds.size.y - offset;
+
+                if (position.x >= xMin && position.x <= xMax && position.y >= yMin && position.y <= yMax)
                 {
                     floor.Add(position);
                 }
@@ -93,11 +232,11 @@ public class RoomFirstDungeonGenerator : SimpleRandomWalkDungeonGenerator
         corridor.Add(position);
         while (position.y != destination.y)
         {
-            if(destination.y > position.y)
+            if (destination.y > position.y)
             {
                 position += Vector2Int.up;
             }
-            else if(destination.y < position.y)
+            else if (destination.y < position.y)
             {
                 position += Vector2Int.down;
             }
@@ -108,7 +247,8 @@ public class RoomFirstDungeonGenerator : SimpleRandomWalkDungeonGenerator
             if (destination.x > position.x)
             {
                 position += Vector2Int.right;
-            }else if(destination.x < position.x)
+            }
+            else if (destination.x < position.x)
             {
                 position += Vector2Int.left;
             }
@@ -124,7 +264,7 @@ public class RoomFirstDungeonGenerator : SimpleRandomWalkDungeonGenerator
         foreach (var position in roomCenters)
         {
             float currentDistance = Vector2.Distance(position, currentRoomCenter);
-            if(currentDistance < distance)
+            if (currentDistance < distance)
             {
                 distance = currentDistance;
                 closest = position;

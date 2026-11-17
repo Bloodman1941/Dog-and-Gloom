@@ -6,28 +6,26 @@ public class TrailController : MonoBehaviour
     private TrailRenderer trailRenderer;
     public WeaponSwing weapon;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         trailRenderer = GetComponent<TrailRenderer>();
-        UnityEngine.Debug.Log("Reference is: " + weapon.enableTrail);
 
-
+        // Automatically find WeaponSwing on this object or its parent/children if unassigned
+        if (weapon == null)
+        {
+            weapon = GetComponentInParent<WeaponSwing>();
+            if (weapon == null)
+            {
+                weapon = FindAnyObjectByType<WeaponSwing>();
+            }
+        }
     }
 
-    // Update is called once per frame
     void Update()
     {
-        UnityEngine.Debug.Log("Reference is: "+weapon.enableTrail);
-
-        if (weapon.enableTrail)
+        if (weapon != null)
         {
-            trailRenderer.enabled = true;
+            trailRenderer.enabled = weapon.enableTrail;
         }
-        else
-        {
-            trailRenderer.enabled = false;
-        }
-
     }
 }
